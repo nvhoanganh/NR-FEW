@@ -1,28 +1,40 @@
 # Customer want to monitor Jenkins 
 
-### ... but there is no out of the box integration for Jenkins
+#### ... but there is no out of the box integration for Jenkins
 
 ![](2022-07-07-16-30-50.png)
 
+#### ... Click `Launch FEW`
+
+![](2022-07-07-16-37-54.png)
+
+#### ... with Syntax Highlighting and Intelisense
+
 ![](lauchfewfromnr1.gif)
 
-# User can use Wizard (form) to configure Flex instead of working with Yaml
+![](intellisense.gif)
+
+
+#### .... user can use Wizard (form) to configure Flex instead of working with Yaml
 
 ![](configureviaform.gif)
 
-
-# User can test Flex Yaml directly inside NR1 (no installation required)
+#### .... user can test Flex Yaml directly inside NR1 (no installation required)
 
 ![](2022-07-07-16-17-30.png)
 
-## How can you test Flex YAML without Flex installed??
+#### How can you test Flex YAML without NR Infra agent??
 
 ![](2022-07-07-16-24-45.png)
 
-# User deploy to nri-sync
+#### .... user then deploy to nri-sync (Integrations Manager Nerdlet)
 
 ![](2022-07-07-16-29-18.png)
 
-# User add Entity Synthesis and share it
+#### .... user add Entity Synthesis and share it (via app)
 
 ![](2022-07-07-16-23-49.png)
+
+#### .... NR Admin can review/test/approve and merge Entity Synthesis or Flex Integration directly in the app
+
+![](2022-07-07-16-51-02.png)
