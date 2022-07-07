@@ -1,4 +1,4 @@
-# Customer want to monitor Jenkins 
+# Usecase: customer want to monitor Jenkins
 
 #### ... but there is no out of the box integration for Jenkins
 
@@ -13,7 +13,6 @@
 ![](lauchfewfromnr1.gif)
 
 ![](intellisense.gif)
-
 
 #### .... user can use Wizard (form) to configure Flex instead of working with Yaml
 
